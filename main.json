@@ -3,7 +3,79 @@
     "main": [
 
     {
-    "name":"The Application is under Development. More features will be added!",
+    "name":"Programmers Are Too Lazy To Implement Password Encryption: Study!",
+    "description":"A group of researchers from The University of Bonn has found that computer science students need to be explicitly told to employ important password security measures. This research carried out by the German academics found that without prompting, the programmers didn’t feel the need to store the passwords securely!",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/03/programmer-coding-640x360.jpg",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"PUBG Obsession: Indian Boy Steals Rs 50,000 From Father!",
+    "description":"The popular battle royale game PUBG has gained a massive fan base in India with youths indulged in binge-playing. But it has also moved in the direction of becoming infamous, owing to all the controversies around it. The latest one is a theft case wherein an Indian boy stole money from his father.!!",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/01/PUBG-Ban-India-640x360.jpg",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"13 Best Hacking Tools Of 2019 For Windows, Linux, macOS!",
+    "description":"We have compiled a list of top hacking software and tools of 2019 with their best features and download links. This list is based on industry reviews, your feedback, and our own experience. This list will tell you about the best software used for hacking purposes featuring port scanners, web vulnerability scanner, password crackers, forensics tools, traffic analysis, and social engineering tools!",
+    "image":"https://fossbytes.com/wp-content/uploads/2016/12/best-hacking-tools.jpg",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"Some Android Apps Still Sharing Your Data With Facebook!",
+    "description":"Previously, a survey by Privacy International discovered the exchange of users’ data between various Android apps and Facebook, following which many apps stopped the practices. However, a recent survey suggests that the data collection continues to take place for some other apps.",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/03/duolingo-640x360.jpg",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"Asus Zenfone Max Pro M2 Review — Continuing The Legacy Of Max Pro M1!",
+    "description":"With Xiaomi dominating the mid-segment smartphone market, you have a lot of options if you are planning to purchase a sub Rs. 15,000 budget smartphone. Asus has presented a new and a quite worthy candidate in the form of Asus ZenFone Max Pro M2 which is much more than an incremental update over the hugely popular ZenFone Max Pro M1.",
+    "image":"https://images.indianexpress.com/2018/12/Asus_ZenfoneReview_LEAD.jpg",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"Bill Gates’ List Of Top 10 Breakthrough Technologies In 2019!",
+    "description":"Every year, MIT announces a Technology Review list featuring different kinds of tech that will have a significant impact in the coming year. MIT has been following this trend for more than 18 years. But this time it’s a little different. For 2019, the top 10 technology list is hand-picked by the contributing editor and a former MIT student — Bill Gates; founder and former CEO of Microsoft.",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/03/Tech-in-2019-640x360.jpg",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"Ubuntu 18.04.2 LTS Is Here With New Hardware Enablement Stack!",
+    "description":"Canonical has finally released the second point release of its Ubuntu 18.04 Bionic Beaver LTS operating system. Ubuntu 18.04.2 follows Ubuntu 18.04.1 LTS, which arrived last year in July.",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/02/ubuntu-18.04.2-lts-640x360.png",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"Apple Confirms ‘It’s Show Time’ Event For March 25!",
+    "description":"As speculated, Apple has finally sent out invites for its special event to be held at Steve Jobs Theater in Cupertino on March 25th. Carrying the tagline, “It’s Show Time,” the event is expected to be about Apple’s upcoming video streaming service and news service..",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/03/Apple-march-Event-640x360.jpg",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"If Elon Musk Designed A Phone, This Is What It Would Look Like!",
+    "description":"Elon Musk makes headlines every other day for his outrageous yet funny tweets. But what if he begins to feature in the news for his smartphones? A concept precisely hints at one we might see in the future.",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/03/Tesla-C1-640x360.jpg",
+    "date":"Today",
+    "url":""
+    },
+
+    {
+    "name":"The Application is still under Development!",
     "description":"This is the 1st version of my application. More properties will be added soon!",
     "image":"https://cdn.lynda.com/course/520220/520220-636136853521823826-16x9.jpg",
     "date":"",
